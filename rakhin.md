@@ -1,19 +1,31 @@
 # MadLibs
 
-1. Proper Noun (Person's Name) = 
-2. Noun = 
-3. Adjective = 
-4. Verb = 
-5. Adjective (Feeling) = 
-6. Animal = 
-7. Verb = 
-8. Color = 
-9. Verb (ending in ing) = 
-10. Adverb (ending in ly) = 
-11. Number = 
-12. Measure of Time = 
-13. Color = 
-14. Animal = 
-15. Number = 
-16. Silly Word = 
-17. Noun = 
+1. Proper Noun (Person's Name) = P Diddy
+2. Noun = Car
+3. Adjective = Sulking
+4. Verb = Pooping
+5. Adjective (Feeling) = Joyful
+6. Animal = Axolotl 
+7. Verb = Running
+8. Color = Yellow
+9. Verb (ending in ing) = Farting 
+10. Adverb (ending in ly) = Softly 
+11. Number = 420
+12. Measure of Time = Millisecond
+13. Color = Purple
+14. Animal = Monkey
+15. Number = 69
+16. Silly Word = Skibidi-toliet-ohio-rizz-gyatt
+17. Noun = Skeleton
+# MadLibs 2
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
